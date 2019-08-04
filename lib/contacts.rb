@@ -31,6 +31,8 @@ def remove_strawberry(contacts)
 contacts.each do |index, value|
  puts value
      binding.pry
+     if index = "Freddy Mercury"
+       
   end 
 
 end
