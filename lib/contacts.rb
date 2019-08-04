@@ -37,5 +37,5 @@ case
  puts contacts
   end 
 end
-remove_strawberry
+remove_strawberry(contacts)
 
