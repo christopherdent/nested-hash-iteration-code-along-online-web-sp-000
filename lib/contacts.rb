@@ -32,6 +32,7 @@ contacts each do |index, value|
   if value == "strawberry"
       value = ""
     end 
+  end 
 
 end
 
