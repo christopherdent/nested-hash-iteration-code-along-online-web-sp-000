@@ -28,7 +28,7 @@ def remove_strawberry(contacts)
      }
    }
 
-contacts each do |index, value|
+contacts.each do |index, value|
   if value == "strawberry"
       value = ""
     end 
