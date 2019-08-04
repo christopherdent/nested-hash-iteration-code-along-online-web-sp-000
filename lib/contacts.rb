@@ -33,9 +33,9 @@ case
   when index = "Freddy Mercury"
     contacts["Freddy Mercury"][:favorite_ice_cream_flavors].delete( "strawberry" ) 
 
-    
+    binding.pry 
     end 
-  binding.pry
+ 
   end 
 end
 
