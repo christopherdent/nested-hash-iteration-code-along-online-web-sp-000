@@ -31,7 +31,7 @@ def remove_strawberry(contacts)
 contacts.each do |index, value|
 case 
   when index = "Freddy Mercury"
-    
+    contacts["Freddy Mercury"].delete( 5 ) # => "Five"
     binding.pry 
     
     end 
