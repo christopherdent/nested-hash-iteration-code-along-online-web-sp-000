@@ -30,7 +30,7 @@ def remove_strawberry(contacts)
 
 contacts.each do |index, value|
  puts value
-    end 
+     
   end 
 
 end
