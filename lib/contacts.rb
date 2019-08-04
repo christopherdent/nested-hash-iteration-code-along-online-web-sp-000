@@ -29,8 +29,7 @@ def remove_strawberry(contacts)
    }
 
 contacts.each do |index, value|
-  if value == ["strawberry", "cookie dough", "mint chip"]
-      favorite_ice_cream_flavors = ["cookie dough", "mint chip"]
+ puts value
     end 
   end 
 
