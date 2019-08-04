@@ -30,7 +30,7 @@ def remove_strawberry(contacts)
 
 contacts.each do |index, value|
   if value == "strawberry"
-      value = ""
+      value = nil
     end 
   end 
 
