@@ -30,11 +30,12 @@ def remove_strawberry(contacts)
 
 contacts.each do |index, value|
 case 
-     when index = "Freddy Mercury"
-       binding.pry 
-     end 
+  when index = "Freddy Mercury"
+    
+    binding.pry 
+    
+    end 
   end 
-
 end
 
 
