@@ -29,7 +29,7 @@ def remove_strawberry(contacts)
    }
 
 contacts.each do |index, value|
-case test
+case teinst
      when index = "Freddy Mercury"
        binding.pry 
      end 
