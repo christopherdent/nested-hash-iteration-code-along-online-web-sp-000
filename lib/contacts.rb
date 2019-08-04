@@ -33,6 +33,7 @@ contacts.each do |index, value|
     
      if index = "Freddy Mercury"
        binding.pry 
+     end 
   end 
 
 end
