@@ -34,7 +34,7 @@ case
     contacts["Freddy Mercury"][:favorite_ice_cream_flavors].delete( "strawberry" ) 
 
     end 
- 
+ puts contacts
   end 
 end
 
