@@ -35,7 +35,7 @@ case
 
     end 
   end 
-  puts contacts
+  
 end
 
 remove_strawberry(contacts)
